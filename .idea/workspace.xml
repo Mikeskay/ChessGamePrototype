@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Phase:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be802467-d9eb-46a4-a01c-5addcb1ebe4f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>list</find>
+      <find>possibleMoves</find>
+      <find>piece</find>
+      <find>possibl</find>
+      <find>kingsa</find>
+      <find>tem</find>
+      <find>kingsaf</find>
+      <find>pieces</find>
+      <find>possible</find>
+      <find>poss</find>
+      <find>alp</find>
+      <find>alpha</find>
+      <find>alphabetachess</find>
+      <find>alphabeta</find>
+      <find>sort</find>
+      <find>AlphaBetaChess</find>
+      <find>possib</find>
+      <find>possiblemove</find>
+      <find>POSSI</find>
+      <find>POSSIBLEMOVE</find>
+      <find>POSSIBLEMOV</find>
+      <find>kNGSA</find>
+      <find>KINGSA</find>
+      <find>POSSIBLE</find>
+      <find>KINGS</find>
+      <find>KING</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Gameplay</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PiecesObject.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+        <option value="$PROJECT_DIR$/Pieces.java" />
+        <option value="$PROJECT_DIR$/kingSafety.java" />
+        <option value="$PROJECT_DIR$/Pieces/Bishop.java" />
+        <option value="$PROJECT_DIR$/Pieces/King.java" />
+        <option value="$PROJECT_DIR$/Pieces/Knight.java" />
+        <option value="$PROJECT_DIR$/Pieces/Pawn.java" />
+        <option value="$PROJECT_DIR$/Pieces/possibleMoves.java" />
+        <option value="$PROJECT_DIR$/Pieces/Queen.java" />
+        <option value="$PROJECT_DIR$/Pieces/Rook.java" />
+        <option value="$PROJECT_DIR$/AlphaBetaAlgorithm.java" />
+        <option value="$PROJECT_DIR$/AlphaBetaChess.java" />
+        <option value="$PROJECT_DIR$/Gameplay.java" />
+        <option value="$PROJECT_DIR$/Moves.java" />
+        <option value="$PROJECT_DIR$/Flip.java" />
+        <option value="$PROJECT_DIR$/Sort.java" />
+        <option value="$PROJECT_DIR$/possibleMoves.java" />
+        <option value="$PROJECT_DIR$/kingSafetyL.java" />
+        <option value="$PROJECT_DIR$/kingSafetyC.java" />
+        <option value="$PROJECT_DIR$/ChessInterface.java" />
+        <option value="$PROJECT_DIR$/Rook.java" />
+        <option value="$PROJECT_DIR$/Rating.java" />
+        <option value="$PROJECT_DIR$/Queen.java" />
+        <option value="$PROJECT_DIR$/Pawn.java" />
+        <option value="$PROJECT_DIR$/Knight.java" />
+        <option value="$PROJECT_DIR$/King.java" />
+        <option value="$PROJECT_DIR$/Bishop.java" />
+        <option value="$PROJECT_DIR$/Board.java" />
+        <option value="$PROJECT_DIR$/Algorithm.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Gameplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gameplay" />
+      <module name="FinalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Gameplay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be802467-d9eb-46a4-a01c-5addcb1ebe4f" name="Default Changelist" comment="" />
+      <created>1597864540101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597864540101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33198708" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32229403" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PiecesObject.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" column="1" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pieces.java" />
+    <entry file="file://$PROJECT_DIR$/kingSafety.java" />
+    <entry file="file://$PROJECT_DIR$/Pieces/King.java" />
+    <entry file="file://$PROJECT_DIR$/Pieces/Knight.java" />
+    <entry file="file://$PROJECT_DIR$/Pieces/Pawn.java" />
+    <entry file="file://$PROJECT_DIR$/Pieces/possibleMoves.java" />
+    <entry file="file://$PROJECT_DIR$/Pieces/Queen.java" />
+    <entry file="file://$PROJECT_DIR$/Pieces/Rook.java" />
+    <entry file="file://$PROJECT_DIR$/ChessPieces.png" />
+    <entry file="file://$PROJECT_DIR$/Pieces/Bishop.java" />
+    <entry file="file://$PROJECT_DIR$/AlphaBetaAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/AlphaBetaChess.java" />
+    <entry file="file://$PROJECT_DIR$/KingSafetyL.class" />
+    <entry file="file://$PROJECT_DIR$/src/KingSafetyC.java" />
+    <entry file="file://$PROJECT_DIR$/Sort.class" />
+    <entry file="file://$PROJECT_DIR$/src/Sort.java" />
+    <entry file="file://$PROJECT_DIR$/src/Rook.java" />
+    <entry file="file://$PROJECT_DIR$/src/Rating.java" />
+    <entry file="file://$PROJECT_DIR$/src/Queen.java" />
+    <entry file="file://$PROJECT_DIR$/src/Pawn.java" />
+    <entry file="file://$PROJECT_DIR$/src/Moves.java" />
+    <entry file="file://$PROJECT_DIR$/src/ChessInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/King.java" />
+    <entry file="file://$PROJECT_DIR$/src/Board.java" />
+    <entry file="file://$PROJECT_DIR$/src/PossibleMoves.java" />
+    <entry file="file://$PROJECT_DIR$/src/Knight.java" />
+    <entry file="file://$PROJECT_DIR$/src/Flip.java" />
+    <entry file="file://$PROJECT_DIR$/src/Bishop.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algorithm.java" />
+    <entry file="file://$PROJECT_DIR$/src/Gameplay.java" />
+    <entry file="file://$PROJECT_DIR$/src/KingSafetyL.java" />
+    <entry file="file://$USER_HOME$/Downloads/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="41" lean-forward="true" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gameplay.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Phase:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FinalProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
