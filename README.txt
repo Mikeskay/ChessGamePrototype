@@ -16,5 +16,5 @@ The executable file can be located - FinalProject/out/artifacts/ExecutableFile.j
 
 Additional information
 -
-Project files located within - FinalProject/src/
-Class files located within - FinalProject/production/
+Project files located within - /src/
+Class files located within - /production/src/
